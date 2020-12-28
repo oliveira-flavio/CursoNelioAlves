@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioContaBancaria", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores", "Vetores\Vetores.csproj", "{16BA0C6A-A7D2-44B1-BD0C-7D2520FBBBD3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VetoresClasses", "VetoresClasses\VetoresClasses.csproj", "{EC764AD5-E0EE-497F-862F-98E466E31268}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{16BA0C6A-A7D2-44B1-BD0C-7D2520FBBBD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16BA0C6A-A7D2-44B1-BD0C-7D2520FBBBD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16BA0C6A-A7D2-44B1-BD0C-7D2520FBBBD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC764AD5-E0EE-497F-862F-98E466E31268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC764AD5-E0EE-497F-862F-98E466E31268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC764AD5-E0EE-497F-862F-98E466E31268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC764AD5-E0EE-497F-862F-98E466E31268}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
